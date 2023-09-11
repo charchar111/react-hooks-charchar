@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/charchar111/react-charchar-hooks"
+    "url": "https://github.com/charchar111/react-hooks-charchar"
   },
   "keywords": [
     "react",
@@ -16,7 +16,7 @@
   "author": "charchar",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/charchar111/react-charchar-hooks/issues"
+    "url": "https://github.com/charchar111/react-hooks-charchar/issues"
   },
   "peerdependencies": {
     "react": "^18.2.0",
