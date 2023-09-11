@@ -3,9 +3,23 @@
   "version": "1.0.0",
   "description": "React Hook to update your document's title",
   "main": "index.js",
-  "scripts": {
-    "start": "node index.js"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/charchar111/react-charchar-hooks"
   },
+  "keywords": [
+    "react",
+    "react-hooks",
+    "title",
+    "hooks"
+  ],
   "author": "charchar",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charchar111/react-charchar-hooks/issues"
+  },
+  "peerdependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
 }
